@@ -3,7 +3,7 @@
 <h3 align="center">Estudante de Ciência da Computação | Análise de Dados & Business Intelligence</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/matheus-moraes-dev" target="_blank">
+  <a href="https://linkedin.com/in/matheus-moraes-dev-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:math.moraes.dev@gmail.com">
