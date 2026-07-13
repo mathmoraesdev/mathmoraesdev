@@ -1,18 +1,98 @@
-# 💫 About Me:
-Sou estudante de Ciência da Computação e estagiário em Análise de Dados, com interesse em Business Intelligence, automação e ciência de dados. Gosto de transformar dados em informações estratégicas por meio de dashboards, análises e soluções que apoiam a tomada de decisão. Atualmente, também estou desenvolvendo a Gauss Data, uma consultoria voltada para BI, automações e soluções orientadas por dados, enquanto aprimoro minhas habilidades em Python, SQL, Power BI e Machine Learning.<br>
+<h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
+<h3 align="center">Estudante de Ciência da Computação | Análise de Dados & Business Intelligence</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/math_moraes._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/math-moraes-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:math.moraes.dev@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mathmoraesdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mathmoraesdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mathmoraesdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/matheus-moraes-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:math.moraes.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mathmoraesdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎯 Sobre mim
+
+Estudante de **Ciência da Computação na UniLaSalle** (conclusão em 2029), atuando como **estagiário em Análise de Dados na Guarda Civil Municipal de São Leopoldo**, onde desenvolvo dashboards, automações e relatórios para apoiar a gestão operacional.
+
+Também sou fundador da **Gauss Data**, minha consultoria de dados focada em soluções de BI e automação para clientes B2B, incluindo o setor público municipal.
+
+- 🔭 Atualmente trabalhando em dashboards operacionais e pipelines de automação com Python
+- 🌱 Aprofundando conhecimentos em Machine Learning e Power BI
+- 💬 Pergunte-me sobre Python, SQL, Power BI e automação de dados
+- 📫 Contato: **math.moraes.dev@gmail.com**
+
+---
+
+### 🛠️ Stack e Ferramentas
+
+**Linguagens & Dados**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
+
+**Visualização & BI**
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
+</p>
+
+**Machine Learning & Dados**
+<p>
+  <img src="https://img.shields.io/badge/Random_Forest-2E7D32?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web_Scraping-6E4B99?style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+**Ferramentas**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Projetos em destaque
+
+#### 🔒 Sistema Integrado de Monitoramento — GCM São Leopoldo
+Dashboard operacional interno com múltiplos módulos de monitoramento em tempo real, apoiado por um pipeline de automação em Python que elimina processos manuais de coleta e tratamento de dados.
+`Python` `HTML/JS` `Automação`
+
+#### 📊 Dashboard — Violência contra Mulheres em São Leopoldo
+Dashboard público interativo com dados reais da SSP/RS (4.555 casos entre 2022–2026), com filtros avançados, análise de tendência, projeção estatística e exportação de CSV.
+`Python` `HTML/JS` `Web Scraping`
+
+#### 🤖 Job Monitor — Painel de Monitoramento de Vagas em Data Science
+Pipeline completo: coleta de vagas via RSS (BeautifulSoup) → armazenamento em SQLite → categorização e scoring com IA (LLaMA 3.1 via Groq API) → dashboard analítico no Power BI.
+`Python` `Web Scraping` `SQLite` `LLaMA 3.1` `Power BI`
+
+#### 📱 Análise e Previsão de Preços de Dispositivos Móveis
+Análise exploratória de dataset internacional com normalização multicâmbio e engenharia de features. Modelo Random Forest com **R² de 0,88**, superando XGBoost (0,87) e regressão linear (0,38).
+`Python` `pandas` `scikit-learn` `Kaggle`
+
+---
+
+### 🎓 Formação
+
+- **Bacharelado em Ciência da Computação** — UniLaSalle Canoas (conclusão em 2029)
+- **Microsoft Power BI para Business Intelligence e Data Science** — Data Science Academy (72h)
+- **Python para Análise de Dados e Data Science** — Data Science Academy (72h)
+- **Curso Profissionalizante em Ciência de Dados** — Dell Technologies | LabEduc (40h)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mathmoraesdev&show_icons=true&theme=tokyonight" alt="Matheus GitHub Stats" />
+</p>
+
+<p align="center"><i>🔗 Portfólio completo: github.com/mathmoraesdev</i></p>
