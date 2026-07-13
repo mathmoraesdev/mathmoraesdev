@@ -1,4 +1,8 @@
-<h1 align="center">Olá, eu sou o Matheus 👋</h1>
+v<h1 align="center">Olá, eu sou o Matheus 👋</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:00BCD4&height=200&section=header&text=&fontSize=0" width="100%" alt="wave header"/>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -94,6 +98,10 @@ Análise exploratória de dataset internacional com normalização multicâmbio 
 - **Curso Profissionalizante em Ciência de Dados** — Dell Technologies | LabEduc (40h)
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mathmoraesdev/mathmoraesdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mathmoraesdev&show_icons=true&theme=tokyonight" alt="Matheus GitHub Stats" />
